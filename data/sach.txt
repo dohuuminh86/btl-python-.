@@ -1,0 +1,17 @@
+# ma_sach|ten_sach|tac_gia|the_loai|tong_so|con_lai|luot_muon
+S001|Dế Mèn phiêu lưu ký|Tô Hoài|Thiếu nhi|5|5|2
+S002|Số đỏ|Vũ Trọng Phụng|Văn học|4|3|2
+S003|Tắt đèn|Ngô Tất Tố|Văn học|3|2|1
+S004|Truyện Kiều|Nguyễn Du|Văn học|1|0|1
+S005|Chí Phèo|Nam Cao|Văn học|3|2|1
+S006|Nhà giả kim|Paulo Coelho|Tiểu thuyết|4|3|2
+S007|Đắc nhân tâm|Dale Carnegie|Kỹ năng sống|3|3|1
+S008|Sapiens: Lược sử loài người|Yuval Noah Harari|Lịch sử|2|2|1
+S009|Clean Code|Robert C. Martin|Công nghệ thông tin|4|3|2
+S010|Automate the Boring Stuff with Python|Al Sweigart|Công nghệ thông tin|3|3|1
+S011|Introduction to Algorithms|Thomas H. Cormen|Công nghệ thông tin|2|1|1
+S012|Python Crash Course|Eric Matthes|Công nghệ thông tin|3|3|1
+S013|Lược sử thời gian|Stephen Hawking|Khoa học|2|1|1
+S014|Mắt biếc|Nguyễn Nhật Ánh|Tiểu thuyết|3|2|1
+S015|Cho tôi xin một vé đi tuổi thơ|Nguyễn Nhật Ánh|Thiếu nhi|5|5|0
+S016|Tuổi trẻ đáng giá bao nhiêu|Rosie Nguyễn|Kỹ năng sống|3|3|0

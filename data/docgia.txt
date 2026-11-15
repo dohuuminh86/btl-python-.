@@ -1,0 +1,12 @@
+# ma_doc_gia|ho_ten|ngay_sinh|so_dien_thoai|dia_chi|email
+DG001|Nguyễn Văn Hùng|14/05/2003|0912345601|12 Nguyễn Trãi, Hà Đông, Hà Nội|hung.nv@example.com
+DG002|Trần Thị Mai|22/08/2004|0912345602|45 Lê Lợi, Hoàn Kiếm, Hà Nội|mai.tt@example.com
+DG003|Lê Minh Quân|03/12/2002|0912345603|8 Trần Phú, Ba Đình, Hà Nội|quan.lm@example.com
+DG004|Phạm Thu Hà|30/01/2003|0912345604|21 Cầu Giấy, Cầu Giấy, Hà Nội|ha.pt@example.com
+DG005|Hoàng Đức Anh|09/07/2001|0912345605|67 Giải Phóng, Hai Bà Trưng, Hà Nội|anh.hd@example.com
+DG006|Vũ Thị Lan|18/03/2004|0912345606|5 Xuân Thủy, Cầu Giấy, Hà Nội|lan.vt@example.com
+DG007|Đặng Quốc Bảo|27/10/2002|0912345607|90 Nguyễn Chí Thanh, Đống Đa, Hà Nội|bao.dq@example.com
+DG008|Bùi Ngọc Linh|06/06/2003|0912345608|33 Phố Huế, Hai Bà Trưng, Hà Nội|linh.bn@example.com
+DG009|Đỗ Thanh Tùng|11/11/2001|0912345609|14 Tây Sơn, Đống Đa, Hà Nội|tung.dt@example.com
+DG010|Ngô Phương Thảo|25/02/2004|0912345610|72 Kim Mã, Ba Đình, Hà Nội|thao.np@example.com
+DG011|Dương Hải Đăng|15/09/2002|0912345611|28 Hoàng Quốc Việt, Cầu Giấy, Hà Nội|dang.dh@example.com

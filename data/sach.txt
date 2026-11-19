@@ -15,3 +15,4 @@ S013|Lược sử thời gian|Stephen Hawking|Khoa học|2|1|1
 S014|Mắt biếc|Nguyễn Nhật Ánh|Tiểu thuyết|3|2|1
 S015|Cho tôi xin một vé đi tuổi thơ|Nguyễn Nhật Ánh|Thiếu nhi|5|5|0
 S016|Tuổi trẻ đáng giá bao nhiêu|Rosie Nguyễn|Kỹ năng sống|3|3|0
+11111|sach cua minh|do huu minh|truyen|21|21|0
